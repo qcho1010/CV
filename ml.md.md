@@ -3,7 +3,7 @@
 
 ---
 
-<p>Machine Learning Compass Content</p>
+<p>Machine Learning Compass</p>
 <h1 id="mission-statement">Mission Statement</h1>
 <p>The purpose of this document is to help the reader to understand the ML without any prior knowledge from high level algorithms all the way to business use cases. Target audiences are Data Scientists, Cloud Architects, Product Managers, and Sales representatives</p>
 <h1 id="introduction">Introduction</h1>
@@ -299,67 +299,52 @@
 <p>True collaboration among teams</p>
 </li>
 </ol>
-<h1 id="example-case-studies">Example Case Studies</h1>
-<h2 id="kc-southern">KC Southern</h2>
-<p><a href="https://docs.google.com/presentation/d/1EvtESFCIGGSlVrAvPImIiLTCFijuSmE0aRN-1E6upHY/edit?usp=sharing">https://docs.google.com/presentation/d/1EvtESFCIGGSlVrAvPImIiLTCFijuSmE0aRN-1E6upHY/edit?usp=sharing</a></p>
-<p>This project was performed for Kansas City Southern (KCS). The focus of the engagement was to assist in outcomes related to reducing time to perform root-cause analysis for Positive Train Control (PTC) braking events. Specific outcomes that were achieved were to increase quantitative &amp; predictive risk management for KCS PTC efforts as well as helping technical and business leaders gain insight into how to build data and ML pipelines and show business leaders how to improve decision making using information and insights that lead to new value.</p>
-<p>Examples of the data collected and used in the analysis are shown in the diagram below. The data is used to create models to assist in prediction and root cause analysis for braking events.</p>
-<p><img src="https://lh5.googleusercontent.com/qHUfFQyPahn6mL1dmFWoH2ohKR2EfAZxWcb1gR5Y0dx_Pv7BfA1LKdwteJw-if065_fcjbOYhu8C9SMJk00e0WjfZs914soBe7RXTARojy2A0Em-FRoKgXXAf9nNGf-OX2fj6UON" alt=""></p>
-
-<h2 id="purina">Purina</h2>
-<p><a href="https://docs.google.com/presentation/d/1Y9g07W4PzVRCZBYPaE5se0r07VgZDFFQmZHSCa6SFsU/edit?usp=sharing">https://docs.google.com/presentation/d/1Y9g07W4PzVRCZBYPaE5se0r07VgZDFFQmZHSCa6SFsU/edit?usp=sharing</a></p>
-<p>There were several projects performed for Purina that leveraged OCI’s ML capabilities. The Purina effort demonstrates capabilities around image classification including predicting the breed of dogs and cats as well as classifying the body condition of a dog based on images. The progression of the effort at Purina resulted in an expanded use of company data sources.</p>
-<p><img src="https://lh4.googleusercontent.com/GgQKp5Qz32yd3s74mVd2KGcYexAIDRYuRj8SF3faLevzI-xqx7d-JCcfTNrZlBCH5RnWAMLOBFvKXMf0W5NlRwGt8erSEVCUulTDB7469HratGfR59pQuuxNgOOHm7WqkMLbcBZr" alt=""></p>
-<p><img src="https://lh4.googleusercontent.com/8ALyS59GAokGAWj6WWj2JqWzWCGqv61L_hJTuiAaOd26_TSxWW8ccb0N-7aCD8IRRYzlk2-kJ2beGZX0ojbw7TJ-f907f-CZQqihgprpxRz7MkHt6DLZwNPcO8zrvw2WaD70n5G2" alt=""></p>
-<p>The team applied creative strategies to deal with lack of available imagery. Some examples include: automatically detecting which images are side views, data generation/simulation using ML</p>
-<p><img src="https://lh3.googleusercontent.com/KVhEuJ2mPtutIz8fX2DEDuBCExaovfA9AGrxaOjWyBd-2su212Lk3UOSxB4H7byxVe7KRc_jG2lXF7r2YgwN8vrz6MSCxg0EowrZ2DdklbW6Qle1_i8FyqVFMfgOvtRqGi_Alufr" alt=""></p>
-<p>What are the relevant use cases in domains?</p>
-<p><img src="https://lh3.googleusercontent.com/OPld0sAqEYLbgWyjKaQICLAnJYDsw40PUZQTsorwIJnqUk591OVJMeyXGqLhotOdts2NcAtOuCmqVVhbGRfX7BqJaZMF-vc8KPGKNYgqYHnjecMrjKX7h_lbb1KzWAc77LrIey7h" alt=""></p>
-<h2 id="mastercard">Mastercard</h2>
-<p>Digital Twin</p>
-<p>External monitoring</p>
-<p>etc</p>
-<h2 id="digs">DIGS</h2>
-<p>Risk based recommendation engine</p>
 <h1 id="core-competencies">Core Competencies</h1>
-
+<p>OCI provides 3 core components in AI/ML engineering to ensure the quality of the product as well as the maintainability of the product.</p>
+<p><img src="https://lh3.googleusercontent.com/DxL7sk79Q6J8098M5Ewx-1Hu_rsRdI3B2wbLJa5xpxVQiodAw5Pfm9h94JnUFVBTtc5IeMoGTvlbB6BvmqYXBZtsBose1lJ_GSCB3uerKlgAViyEaR2UcHv37mTSIjVklvXAJIQB" alt=""></p>
+<p>OCI also offer following advantages in soft skill</p>
 <ul>
 <li>
 <p>Speed to solution</p>
 </li>
 <li>
+<p>With help of an in house built AI solution platform called Alice AI, we can build the solution relatively quickly compared to other competitors.</p>
+</li>
+<li>
 <p>Value / Cost</p>
+</li>
+<li>
+<p>We make sure every single model improvement means dollar values in your business.</p>
 </li>
 <li>
 <p>Philosophy of providing a solution (Value first)</p>
 </li>
 <li>
+<p>If the model does not provide value in your business, we will be transparents about it.</p>
+</li>
+<li>
 <p>Leveraging other skills (Microservices) / Integrated</p>
 </li>
+<li>
+<p>OCI offers other software solutions such as openDDS to provide the seamless integration into your existing platform.</p>
+</li>
 </ul>
-<p>Some of the techniques used by the ML team provide technical advantages such as :</p>
+<p>OCI has already invested significant amount of resources and time to implement the some of the breakthrough ML technologies so that you do not have to pay for it such as</p>
 <ul>
 <li>
 <p>Auto labelling</p>
 </li>
 <li>
-<p>Active learning</p>
+<p>Auto QA/QC</p>
 </li>
 <li>
-<p>QA/QC</p>
+<p>Deep Learning Architectures</p>
+</li>
+<li>
+<p>Auto Dashboard builder</p>
 </li>
 </ul>
-<p>What kinds of capabilities does OCI provide in AI/ML? The following slide illustrates 3 areas: Providing insights by data analysis, developing models using ML and deploying them for use in a production environment, and assisting clients with managing their</p>
-<p><img src="https://lh3.googleusercontent.com/DxL7sk79Q6J8098M5Ewx-1Hu_rsRdI3B2wbLJa5xpxVQiodAw5Pfm9h94JnUFVBTtc5IeMoGTvlbB6BvmqYXBZtsBose1lJ_GSCB3uerKlgAViyEaR2UcHv37mTSIjVklvXAJIQB" alt=""></p>
-<p>What experience do we have that is in demand?</p>
 <p><img src="https://lh6.googleusercontent.com/0zP3nZezFaGA5VgZXCALl_8VPET9ksLV2gfwwY4wwKPYVcUgrczwceHDsKnqX7sj28kP_0f729BF-c-Gw2Pwiaz0YlUJIk0vEqUt1fwZoTRBNCpntxKAhc5PsX7ZOkp7e8lStNEn" alt=""></p>
 <p><img src="https://lh3.googleusercontent.com/ETALgbSG0ary0fopa0iBpg_q1pG_5ewp_kJihDf3LiHgbfwEScqE-WWJw_MergeNQJZNokVDTG8Wlg4df620O0d-hDTe4TVL_Sz5C1lmnO_sXBF2Wm0AEEsGwx_gQYBJ_G5_I2UG" alt=""></p>
-<h1 id="processes">Processes</h1>
-<h2 id="methodology">Methodology</h2>
-<p><img src="https://lh5.googleusercontent.com/q7GDYLjYa-xDeOebC1kszJphAenPjsu0BDwjnxqZg9MGs0IxSgjvsgJyceDOiFGTdjyB8t4ngqGZbrxNOga2LB2U4OD9wnDxEdE3xm9CsoSBYnFcE_iqBCv0UwnOpFQCj4s0y-eL" alt=""></p>
-<p>EDA = Exploratory Data Analysis</p>
-<h1 id="reference-architectures">Reference Architectures</h1>
-<p>Purina - Pet Recognition ()</p>
-<p>Modeling approach supports scalability:</p>
-<p><img src="https://lh3.googleusercontent.com/1-UJIpZEkjhHsW4wPdTL3uFXW2SVhbrVmzKYlyCS2edLmUlVcPjcvk17mn2EtUXyvNOa9mZOFvybGuunS4QmnksfYdxcfRGrqlLczPjOqKrvoTCy5T--9og_cMwxzdkuvaP9UQTX" alt=""></p>
+<p><img src="https://lh5.googleusercontent.com/0ENJYUVCZyvwxxOX9GqYfebsBTiBkB2LIVigWTn5w7cr3lkzebQOioBu92UAJKDkf2FUg9HqivTXJjv-0Xof350Hxafdc7mK91TlYsr99xqs3uCO9RbGSE4U6jKrpL7TH3Gu1aMZ" alt=""></p>
 
